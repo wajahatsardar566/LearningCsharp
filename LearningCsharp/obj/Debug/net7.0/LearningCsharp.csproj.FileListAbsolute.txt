@@ -1,0 +1,14 @@
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\bin\Debug\net7.0\LearningCsharp.exe
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\bin\Debug\net7.0\LearningCsharp.deps.json
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\bin\Debug\net7.0\LearningCsharp.runtimeconfig.json
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\bin\Debug\net7.0\LearningCsharp.dll
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\bin\Debug\net7.0\LearningCsharp.pdb
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.AssemblyInfoInputs.cache
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.AssemblyInfo.cs
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.csproj.CoreCompileInputs.cache
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.dll
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\refint\LearningCsharp.dll
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.pdb
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\LearningCsharp.genruntimeconfig.cache
+C:\Users\wajahat-int\source\repos\LearningCsharp\LearningCsharp\obj\Debug\net7.0\ref\LearningCsharp.dll
